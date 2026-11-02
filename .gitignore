@@ -1,0 +1,6 @@
+cricket.db
+auth.py
+__pycache__/
+*.pyc
+.venv/
+venv/
